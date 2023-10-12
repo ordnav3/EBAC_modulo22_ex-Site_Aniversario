@@ -1,5 +1,5 @@
 {
-  "name": "modulo22ex",
+  "name": "modulo22",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -11,10 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.10.0",
-    "imagemin": "^8.0.1",
-    "parcel": "^2.10.0",
-    "parcel-bundler": "^1.12.5",
-    "sass": "^1.69.2"
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3",
+    "sharp": "^0.31.3"
   }
 }
