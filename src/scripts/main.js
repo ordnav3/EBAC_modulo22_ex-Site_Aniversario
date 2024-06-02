@@ -1,5 +1,5 @@
 const contador = document.getElementById('contador')
-const dataDoAniversario = new Date("Apr 26, 2024 00:00:01");
+const dataDoAniversario = new Date("Apr 26, 2025 00:00:01");
 const timesTempDoAniversario = dataDoAniversario.getTime();
 
 const contaAsHoras = setInterval(() => {
